@@ -1,4 +1,4 @@
-Keet Health | Terraform Exercise
+Terraform Exercise
 ===
 
 Please reproduce the following:
